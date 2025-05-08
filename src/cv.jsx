@@ -7,7 +7,7 @@ export const Portfolio = () => {
         <div className="cv-container">
             <header className="cv-header">
                 <img src={perfilfoto} alt="Foto de Perfil" className="cv-photo" />
-                <h1>Josué Seabastian</h1>
+                <h1>Josué Seabastian Cardenas Orozco</h1>
                 <p className="cv-title">Desarrollador de Software</p>
             </header>
 
@@ -46,9 +46,9 @@ export const Portfolio = () => {
 
             <section className="cv-section">
                 <h2>Contacto</h2>
-                <p>Email: <a href="mailto:tuemail@example.com">tuemail@example.com</a></p>
-                <p>LinkedIn: <a href="https://linkedin.com/in/tu-usuario" target="_blank">linkedin.com/in/tu-usuario</a></p>
-                <p>GitHub: <a href="https://github.com/tu-usuario" target="_blank">github.com/tu-usuario</a></p>
+                <p>Email: <a href="josuechatto3010@gmail.com">tuemail@example.com</a></p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/josue-sebastian-cardenas-orozco-147a622b8/" target="_blank">linkedin.com/in/tu-usuario</a></p>
+                <p>GitHub: <a href="https://github.com/JosueChatto" target="_blank">github.com/tu-usuario</a></p>
             </section>
         </div>
     );
