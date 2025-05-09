@@ -8,13 +8,13 @@ export const Portfolio = () => {
             <header className="cv-header">
                 <img src={perfilfoto} alt="Foto de Perfil" className="cv-photo" />
                 <h1>Josué Seabastian Cardenas Orozco</h1>
-                <p className="cv-title">Desarrollador de Software</p>
+                <p className="cv-title">Ingeniero Informatico</p>
             </header>
 
             <section className="cv-section">
                 <h2>Sobre mí</h2>
                 <p>
-                    Soy un desarrollador apasionado por la tecnología y la innovación. Me especializo en crear soluciones digitales eficientes, escalables y con enfoque en la experiencia del usuario.
+                    Soy Ingeniero informatico que un apasionado al desarrollo de aplicaciones y configuracion de las Redes Estructuradas. Me especializo en crear soluciones  eficientes, escalables y con enfoque en la experiencia del usuario.
                     Mi objetivo es seguir creciendo profesionalmente y aportar valor real en cada proyecto en el que participo.
                 </p>
             </section>
@@ -35,11 +35,11 @@ export const Portfolio = () => {
                 <ul className="cv-list">
                     <li>
                         <strong>Gestor de Tareas</strong> – Web app para organizar tareas. 
-                        <a href="https://github.com/tu-usuario/gestor-tareas" target="_blank" rel="noopener noreferrer"> Ver proyecto</a>
+                        <a href="https://github.com/JosueTecnologico?tab=repositories" target="_blank" rel="noopener noreferrer"> Ver proyecto</a>
                     </li>
                     <li>
-                        <strong>Portafolio Personal</strong> – Sitio web profesional con React. 
-                        <a href="https://github.com/tu-usuario/portafolio" target="_blank" rel="noopener noreferrer"> Ver proyecto</a>
+                        <strong>Portafolio Personal</strong> – Sitio web profesional de Github.
+                        <a href="https://github.com/JosueChatto?tab=repositories" target="_blank" rel="noopener noreferrer"> Ver proyecto</a>
                     </li>
                 </ul>
             </section>
