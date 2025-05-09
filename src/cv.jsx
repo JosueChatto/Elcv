@@ -46,9 +46,9 @@ export const Portfolio = () => {
 
             <section className="cv-section">
                 <h2>Contacto</h2>
-                <p>Email: <a href="josuechatto3010@gmail.com">tuemail@example.com</a></p>
-                <p>LinkedIn: <a href="https://www.linkedin.com/in/josue-sebastian-cardenas-orozco-147a622b8/" target="_blank">linkedin.com/in/tu-usuario</a></p>
-                <p>GitHub: <a href="https://github.com/JosueChatto" target="_blank">github.com/tu-usuario</a></p>
+                <p>Email: <a href="josuechatto3010@gmail.com">josuechatto3010@gmail.com</a></p>
+                <p>LinkedIn: <a href="https://www.linkedin.com/in/josue-sebastian-cardenas-orozco-147a622b8/" target="_blank">https://www.linkedin.com/in/josue-sebastian-cardenas-orozco-147a622b8/</a></p>
+                <p>GitHub: <a href="https://github.com/JosueChatto" target="_blank">https://github.com/JosueChatto</a></p>
             </section>
         </div>
     );
