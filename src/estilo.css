@@ -40,6 +40,10 @@ body {
     margin-bottom: 35px;
 }
 
+.cv-section.contacto p{
+    text-align: justify;
+} 
+
 .cv-section h2 {
     color: #007acc;
     font-size: 22px;
