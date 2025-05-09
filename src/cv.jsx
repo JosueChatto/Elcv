@@ -9,6 +9,7 @@ export const Portfolio = () => {
                 <img src={perfilfoto} alt="Foto de Perfil" className="cv-photo" />
                 <h1>Josué Seabastian Cardenas Orozco</h1>
                 <p className="cv-title">Ingeniero Informatico</p>
+                <p className='cv-list'>Ubicación: Colima, México</p>
             </header>
 
             <section className="cv-section">
@@ -49,6 +50,10 @@ export const Portfolio = () => {
                 <p>Email: <a href="josuechatto3010@gmail.com">josuechatto3010@gmail.com</a></p>
                 <p>LinkedIn: <a href="https://www.linkedin.com/in/josue-sebastian-cardenas-orozco-147a622b8/" target="_blank">https://www.linkedin.com/in/josue-sebastian-cardenas-orozco-147a622b8/</a></p>
                 <p>GitHub: <a href="https://github.com/JosueChatto" target="_blank">https://github.com/JosueChatto</a></p>
+            </section>
+            <section className="cv-section">
+                <h2>Formación Académica</h2>
+                <p>Ingeniería en Informática — Instituto Tecnologico de Colima - TECNM (2020 - 2025)</p>
             </section>
         </div>
     );
